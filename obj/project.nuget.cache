@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S5bXZn6L2u12DUQB67qhFkdL2GoRZuRB+P15cYBvbHDZ+WTyMfnSO36U02kMhk338Rhknmc2GHwEZrtbOwmDdQ==",
+  "success": true,
+  "projectFilePath": "/home/hendry/playground/MyFirstAzureWebApp/MyFirstAzureWebApp.csproj",
+  "expectedPackageFiles": [
+    "/home/hendry/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
